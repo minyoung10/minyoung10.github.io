@@ -4,7 +4,7 @@ title:  "Minyoung10's github blog"
 date:   2023-04-30 15:03:36 +0530
 categories: Javascript NodeJS
 ---
-Heloo, My name is Minyoung. I'm 23 years-old. I'm from Korea.
+Heloo, My name is Minyoung Song. I'm 23 years-old. I'm from Korea.
 
 ```javascript
 const Razorpay = require('razorpay');
