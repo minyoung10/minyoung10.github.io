@@ -4,7 +4,7 @@ title:  "First github blog"
 date:   2023-04-30 15:03:36 +0530
 categories: Javascript NodeJS
 ---
-Hi, my name is Jeonghyeon Ryu. This is my first github blog.
+Heloo, My name is Minyoung. I'm 23 years-old. I'm from Korea.
 
 ```javascript
 const Razorpay = require('razorpay');
