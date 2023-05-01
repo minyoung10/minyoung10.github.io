@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First github blog"
+title:  "Minyoung10's github blog"
 date:   2023-04-30 15:03:36 +0530
 categories: Javascript NodeJS
 ---
